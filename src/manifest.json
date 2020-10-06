@@ -1,17 +1,26 @@
 {
   "$schema": "https://raw.githubusercontent.com/sketch-hq/SketchAPI/develop/docs/sketch-plugin-manifest-schema.json",
   "icon": "icon.png",
+  "identifier" : "sketch.plugin.skeleton",
+  "version" : "1.0",
+  "description" : "Generate skeleton/placeholder UI from the selected components",
+  "author" : "XU Tao",
   "commands": [
     {
-      "name": "my-command",
-      "identifier": "skeletongenerator.my-command-identifier",
-      "script": "./my-command.js"
+      "name": "Generate skeleton - light mode 🌕",
+      "identifier": "omnisskeletongenerator.light",
+      "script": "./command1.js"
+    },
+    {
+      "name": "Generate skeleton - dark mode 🌑",
+      "identifier": "omnisskeletongenerator.dark",
+      "script": "./command2.js"
     }
   ],
   "menu": {
-    "title": "skeletongenerator",
+    "title": "omnisskeletongenerator",
     "items": [
-      "skeletongenerator.my-command-identifier"
+      "omnisskeletongenerator.light", "omnisskeletongenerator.dark"
     ]
   }
 }
