@@ -26,5 +26,5 @@
   },
   "name": "omnisskeletongenerator",
   "disableCocoaScriptPreprocessor": true,
-  "appcast": "https://raw.githubusercontent.com//master/.appcast.xml"
+  "appcast": "https://raw.githubusercontent.com/taohsu/skeletongenerator/master/.appcast.xml"
 }

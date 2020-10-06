@@ -14,9 +14,9 @@
     ],
     "sketch-assets-file": "sketch-assets/icons.sketch"
   },
-  “repository”: {
-  “type”: “git”,
-  “url”: “https://github.com/taohsu/omnisskeletongenerator.git"
+  "repository": {
+  "type": "git",
+  "url": "https://github.com/taohsu/skeletongenerator.git"
   },
   "scripts": {
     "build": "skpm-build",
