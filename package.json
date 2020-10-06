@@ -1,18 +1,22 @@
 {
-  "name": "skeletongenerator",
+  "name": "omnisskeletongenerator",
   "description": "",
   "version": "0.1.0",
   "engines": {
     "sketch": ">=49.0"
   },
   "skpm": {
-    "name": "skeletongenerator",
+    "name": "omnisskeletongenerator",
     "manifest": "src/manifest.json",
-    "main": "skeletongenerator.sketchplugin",
+    "main": "omnisskeletongenerator.sketchplugin",
     "assets": [
       "assets/**/*"
     ],
     "sketch-assets-file": "sketch-assets/icons.sketch"
+  },
+  “repository”: {
+  “type”: “git”,
+  “url”: “https://github.com/taohsu/omnisskeletongenerator.git"
   },
   "scripts": {
     "build": "skpm-build",

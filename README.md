@@ -1,10 +1,10 @@
-# skeletongenerator
+# omnisskeletongenerator
 
 ## Installation
 
-- [Download](../../releases/latest/download/skeletongenerator.sketchplugin.zip) the latest release of the plugin
+- [Download](../../releases/latest/download/omnisskeletongenerator.sketchplugin.zip) the latest release of the plugin
 - Un-zip
-- Double-click on skeletongenerator.sketchplugin
+- Double-click on omnisskeletongenerator.sketchplugin
 
 ## Development Guide
 
