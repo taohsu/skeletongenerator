@@ -1,4 +1,4 @@
-# omnisskeletongenerator
+# omnis skeleton generator
 
 ## Installation
 
