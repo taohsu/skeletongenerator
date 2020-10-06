@@ -1,7 +1,7 @@
 {
   "name": "omnisskeletongenerator",
   "description": "",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "engines": {
     "sketch": ">=49.0"
   },
@@ -15,8 +15,8 @@
     "sketch-assets-file": "sketch-assets/icons.sketch"
   },
   "repository": {
-  "type": "git",
-  "url": "https://github.com/taohsu/skeletongenerator.git"
+    "type": "git",
+    "url": "https://github.com/taohsu/skeletongenerator.git"
   },
   "scripts": {
     "build": "skpm-build",
