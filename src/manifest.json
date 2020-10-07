@@ -2,9 +2,11 @@
   "$schema": "https://raw.githubusercontent.com/sketch-hq/SketchAPI/develop/docs/sketch-plugin-manifest-schema.json",
   "icon": "icon.png",
   "identifier" : "sketch.plugin.skeleton",
+  "name" : "Omnis Skeleton Generator",
   "version" : "1.0",
   "description" : "Generate skeleton/placeholder UI from the selected components",
   "author" : "XU Tao",
+  "homepage": "https://github.com/taohsu/skeletongenerator",
   "commands": [
     {
       "name": "Generate skeleton - light mode 🌕",
@@ -18,7 +20,7 @@
     }
   ],
   "menu": {
-    "title": "omnisskeletongenerator",
+    "title": "Omnis Skeleton Generator",
     "items": [
       "omnisskeletongenerator.light", "omnisskeletongenerator.dark"
     ]
