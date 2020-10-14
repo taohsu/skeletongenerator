@@ -1,7 +1,9 @@
 # Omnis Skeleton Generator
 
-This tool can generate skeleton/placeholder UI from your components.
-It's simple: Select the objects you want, then select which color theme you want to use (light/dark), and you will get the skeleton UI.
+This tool can generate skeleton/placeholder UI from your components with simple steps: 
+- Select the layers/groups/symbols instances you want to transfrom to skeletons
+- Open the plugin menu and select Omnis Skeleton generator, then select which color theme you want to use (light/dark)
+- In a few seconds, you get your skeleton UI.
 
 ## Installation
 
