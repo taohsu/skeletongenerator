@@ -3,7 +3,7 @@
   "icon": "icon.png",
   "identifier" : "sketch.plugin.skeleton",
   "name" : "Omnis Skeleton Generator",
-  "version" : "1.0",
+  "version" : "1.0.1",
   "description" : "Generate skeleton/placeholder UI from the selected components",
   "author" : "XU Tao",
   "homepage": "https://github.com/taohsu/skeletongenerator",
