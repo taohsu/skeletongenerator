@@ -2,7 +2,7 @@
   "$schema": "https://raw.githubusercontent.com/sketch-hq/SketchAPI/develop/docs/sketch-plugin-manifest-schema.json",
   "icon": "icon.png",
   "identifier": "sketch.plugin.skeleton",
-  "version": "1.0",
+  "version": "1.0.1",
   "description": "Generate skeleton/placeholder UI from the selected components",
   "author": "XU Tao",
   "commands": [
